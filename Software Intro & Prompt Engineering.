@@ -1,0 +1,76 @@
+QUESTION 1: Explain what software engineering is and discuss its importance in the technology industry.
+ASNWER: Software Engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems which 
+involves the design, development, testing, deployment, and maintenance of software products.
+Software Engineering enables the creation of software applications and systems that power many aspects of modern life, including communication, commerce, entertainment, and healthcare.
+
+
+QUESTION 2: Identify and describe at least three key milestones in the evolution of software engineering.
+ANSWER:
+1. The Introduction of Structured Programming-(1960s-1970s)
+   Prior to structured programming, software was typically written in a monolithic style with extensive use of "goto" statements, leading to what was often referred to as "spaghetti code"—a tangled and unmanageable codebase. 
+   The introduction of structured programming brought a disciplined approach, emphasizing the use of control structures like loops, conditionals, and subroutines to improve code readability and maintainability.
+
+2. The Advent of Object-Oriented Programming-(1980s)
+   Object-oriented programming (OOP) was a paradigm shift from procedural programming. It introduced the concept of "objects"—data structures encapsulated with both data (attributes) and methods (functions). 
+   The core principles of OOP, such as inheritance, encapsulation, polymorphism, and abstraction, provided a way to model complex systems more naturally and efficiently.
+   OOP revolutionized software design by enabling the creation of reusable, modular, and scalable code. It became the dominant programming paradigm and is still widely used in software development today.
+
+3. The Rise of Agile Methodologies (2000s)
+   Agile methodologies emerged as a response to the limitations of traditional, heavyweight software development models like the Waterfall model. Agile promotes iterative development, where software is built incrementally with continuous feedback from stakeholders. 
+   The Agile Manifesto, published in 2001, formalized these principles, emphasizing individuals and interactions, working software, customer collaboration, and adaptability to change.
+   Agile transformed software development by promoting flexibility, collaboration, and rapid delivery of software. It has become the standard approach in many industries, with frameworks like Scrum and Kanban widely adopted.
+
+QUESTION 3: List and briefly explain the phases of the Software Development Life Cycle.
+ANSWER: 
+Requirements: Gathering and documenting user needs and system requirements.
+  - Design: Creating high-level and detailed designs of the software architecture and user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+
+QUESTION 4: Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+ The Waterfall model follows a linear and sequential approach, where each phase of the software development lifecycle (SDLC) must be completed before moving on to the next, just like the flowing downwards like a waterfall.
+ The typical steps involved are, Requirements, Design, Implementation, Testing, Deployment, and Maintenance. Waterfall is well-suited for projects with well-defined requirements that are unlikely to change, such as government contracts, large-scale construction projects,
+ The Agile model on the other hand is an iterative and incremental approach focused on flexibility, collaboration, and responding to change. Agile is well-suited for startups developing new software products where requirements may change rapidly based on user feedback and market trends. 
+ For instance, developing a mobile app with frequent updates and feature additions would benefit from Agile’s flexibility.
+
+
+QUESTION 5: Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+ANSWER: 
+Software Developer: Responsible for writing code and implementing software solutions
+Quality Asurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Oversees the planning, execution, and delivery of software projects.
+
+
+QUESTION 6: Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+ANSWER: An Integrated Development Environment (IDE) is a software tool that helps developers write, test, and debug code more efficiently. Eg, VS Ccode, Sublime, Atom.
+A Version Control System (VCS) is like a time machine for code. It tracks changes to code over time, allowing multiple developers to work on the same project without overwriting each other's work. Eg; Git, Subversion.
+
+QUESTION 7: Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing: Focuses on individual components to catch bugs early and ensure code quality.
+Integration Testing: Ensures that different components work together correctly, catching interaction issues.
+System Testing: Validates the entire integrated system to ensure it meets all requirements.
+Acceptance Testing: Confirms that the software meets user expectations and is ready for deployment.
+Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
+
+
+
+Part 2: Introduction to AI and Prompt Engineering
+
+
+QUESTION 1: Define prompt engineering and discuss its importance in interacting with AI models.
+
+ANSWER: Prompt engineering is the process of crafting and refining inputs (prompts) to effectively interact with AI models, particularly those based on natural language processing (NLP), like GPT-4. 
+The goal is to frame prompts in a way that elicits accurate, relevant, and useful responses from the AI.
+Importance: Guides AI behaviour, Improving AI Usability Across Domains, Maximize AI potential.
+
+
+QUESTION 2: Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ANSWER:
+Vague Prompt: How do I make a cake?
+Improved Prompt: How do I make a chocolate cake? 
+The improved prompt is more effective because it gives direction to the AI on what exact cake to provide preparation steps for. 
+
+
